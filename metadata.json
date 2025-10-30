@@ -1,0 +1,5 @@
+{
+  "name": "PermAI - Generative Illustration",
+  "description": "An AI-powered application to generate faceless illustrations from reference photos or scene descriptions, offering various artistic styles and aspect ratios.",
+  "requestFramePermissions": []
+}
